@@ -5,11 +5,11 @@ This is an introduction to Apache Spark. You'll learn how Apache Spark internall
 
 ## Scaling Math for Statistics on Apache Spark
 Applying basic statistical calculations using the Apache Spark RDD API in order to experience how parallelization in Apache Spark works
-*Averages
-*Standard deviation
-*Skewness
-*Kurtosis
-*Covariance, Covariance matrices, correlation
-*Plotting with ApacheSpark and python's matplotlib
-*Dimensionality reduction
-*PCA5
+* Averages
+* Standard deviation
+* Skewness
+* Kurtosis
+* Covariance, Covariance matrices, correlation
+* Plotting with ApacheSpark and python's matplotlib
+* Dimensionality reduction
+* PCA5
