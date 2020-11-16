@@ -21,3 +21,15 @@ Applying basic statistical calculations using the Apache Spark RDD API in order 
 * Plotting with ApacheSpark and python's matplotlib
 * Dimensionality reduction
 * PCA5
+
+## Introduction to Apache SparkML
+* Summarize properties of machine learning pipelines
+* Express machine learning pipelines programatically using Apache SparkML
+* Examine the importance of data preparation
+* Explain clustering and the k-means algorithm
+* Analyze any BigData data set using k-means and Apache SparkML
+
+## Supervised and Unsupervised learning with SparkML
+* Create a Apache SparkML Pipelines for Linear Regression
+* Create a Apache SparkML Pipelines for Logistic Regression
+* Analyze a given data set using Apache SparkML
